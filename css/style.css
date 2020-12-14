@@ -100,3 +100,22 @@ footer{
 .description h3{
     font-size: 24px;
 }
+
+@media screen and (max-width: 500px){
+    .formContainer{
+        float: none;
+        margin: auto;
+    }
+
+    .description{
+        max-width:90%;
+        display: block;
+        margin: auto;
+        text-align: center;
+    }
+
+    .picture{
+        margin-bottom: 20px;
+    }
+
+}
