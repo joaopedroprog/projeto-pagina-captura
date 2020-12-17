@@ -101,14 +101,14 @@ footer{
     font-size: 24px;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 700px){
     .formContainer{
         float: none;
         margin: auto;
     }
 
     .description{
-        max-width:90%;
+        max-width:80%;
         display: block;
         margin: auto;
         text-align: center;
